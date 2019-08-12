@@ -62,7 +62,7 @@
 	支持文字版；
 	支持图片时长设置；
 	支持视频调序等
-	
+# [simontok](https://android-apk.org/com.ipankstudio.lk21/40802355-simontok/)	
 #### &emsp;截图
 <img src="website/static/edit1.jpg" width = "200" /> <img src="website/static/edit2.jpg" width = "200" /> <img src="website/static/edit3.jpg" width = "200" /> <img src="website/static/edit4.jpg" width = "200" />
 
